@@ -1,0 +1,1 @@
+In this end-to-end data analytics project, I take a REAL dataset for employee presence from a company and perform data analysis in Power BI. I fullfill all the requirements by building a Power BI dashboard to help company with employee insights.
